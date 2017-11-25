@@ -1,0 +1,230 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 101}, {150, 134}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{254, 240}, {150, 32}}",
+          "uuid" : "D9775429-A503-473F-9798-C864FB6AA3FF",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "yourcard1label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{158, 101}, {133, 134}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{254, 240}, {150, 32}}",
+          "uuid" : "F1869BFC-A361-4FA6-B156-EA0988C20FB3",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "yourcard2label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{299, 101}, {137, 134}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{254, 240}, {150, 32}}",
+          "uuid" : "C957289A-FA04-429D-8352-E26FC7F0621E",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "yourcard3label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 52}, {436, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{254, 240}, {150, 32}}",
+          "uuid" : "865E51BE-8E09-4415-85A4-4B4F4E1CF9A8",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "your cards",
+          "name" : "label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 263}, {198, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "hit",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "hit",
+          "uuid" : "25CDE76A-0B34-4E1A-8A98-4884B9F933F4",
+          "class" : "Button",
+          "name" : "hit_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{268, 263}, {168, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "stand",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "stand",
+          "uuid" : "D76E012E-F6BC-4861-81E6-16062B172FEA",
+          "class" : "Button",
+          "name" : "stand_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 497}, {436, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "8C18CD94-9DE9-4871-A1AC-1B010D3F7127",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "outcomelabel",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 303}, {436, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "1E47ACEE-3E5A-4AAE-96BE-54FDEC190A2A",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Dealers cards",
+          "name" : "label1",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 343}, {150, 146}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "76B329FE-0BA7-479F-844E-65B979543181",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "dealercard1label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{158, 343}, {133, 146}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "D914A0D0-D478-4C7F-AFB0-26F6E775694A",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "dealercard2label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{299, 343}, {137, 146}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "E7CBD2A9-AF81-4264-9911-5EA22341A7C0",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "dealercard3label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 6}, {436, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "deal_cards",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "deal",
+          "uuid" : "F242512A-5249-4BC9-8A52-5C926B1E2354",
+          "class" : "Button",
+          "name" : "deal_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "attributes" : {
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "name" : "",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
